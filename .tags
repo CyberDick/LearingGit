@@ -1,0 +1,259 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APHash	hash_function.cpp	/^APHash(const unsigned char *str, unsigned int len)$/;"	f
+BF_ELE	define.h	31;"	d
+BF_ELE_BIT	define.h	32;"	d
+BF_HASH_FUNC_NUM	PeacockHash.cpp	4;"	d	file:
+BF_HF	define.h	33;"	d
+BKDR	hash_function.cpp	/^BKDR(const unsigned char * str, unsigned int len)$/;"	f
+BOB	hash_function.cpp	/^BOB(const char * str, unsigned int len)$/;"	f
+BOB1	hash_function.cpp	/^BOB1(const unsigned char * str, unsigned int len)$/;"	f
+BOB10	hash_function.cpp	/^BOB10(const unsigned char * str, unsigned int len)$/;"	f
+BOB11	hash_function.cpp	/^	BOB11(const unsigned char * str, unsigned int len)$/;"	f
+BOB12	hash_function.cpp	/^	BOB12(const unsigned char * str, unsigned int len)$/;"	f
+BOB13	hash_function.cpp	/^	BOB13(const unsigned char * str, unsigned int len)$/;"	f
+BOB14	hash_function.cpp	/^	BOB14(const unsigned char * str, unsigned int len)$/;"	f
+BOB15	hash_function.cpp	/^	BOB15(const unsigned char * str, unsigned int len)$/;"	f
+BOB16	hash_function.cpp	/^	BOB16(const unsigned char * str, unsigned int len)$/;"	f
+BOB2	hash_function.cpp	/^BOB2(const unsigned char * str, unsigned int len)$/;"	f
+BOB3	hash_function.cpp	/^BOB3(const unsigned char * str, unsigned int len)$/;"	f
+BOB4	hash_function.cpp	/^BOB4(const unsigned char * str, unsigned int len)$/;"	f
+BOB5	hash_function.cpp	/^BOB5(const unsigned char * str, unsigned int len)$/;"	f
+BOB6	hash_function.cpp	/^BOB6(const unsigned char * str, unsigned int len)$/;"	f
+BOB64	hash_function.cpp	/^uint64 BOB64(const unsigned char * str, unsigned int len)$/;"	f
+BOB7	hash_function.cpp	/^BOB7(const unsigned char * str, unsigned int len)$/;"	f
+BOB8	hash_function.cpp	/^BOB8(const unsigned char * str, unsigned int len)$/;"	f
+BOB9	hash_function.cpp	/^BOB9(const unsigned char * str, unsigned int len)$/;"	f
+BOBHash	BOBHash.cpp	/^BOBHash::BOBHash()$/;"	f	class:BOBHash
+BOBHash	BOBHash.cpp	/^BOBHash::BOBHash(uint primeNum) {$/;"	f	class:BOBHash
+BOBHash	BOBHash.h	/^class BOBHash$/;"	c
+BOB_HASH_H	BOBHash.h	2;"	d
+BloomFilter	PeacockHash.h	/^	StandardBF *BloomFilter; \/\/BloomFilters$/;"	m	class:PeacockHash
+CHECKPOINT	main.cpp	9;"	d	file:
+CHUNK	define.h	23;"	d
+CONCAT	define.h	35;"	d
+COUNT	key-value.h	8;"	d
+CRC32	hash_function.cpp	/^CRC32(const unsigned char * str,unsigned int len)$/;"	f
+Computed	sha1.h	/^    int Computed;               \/* Is the digest computed?         *\/$/;"	m	struct:SHA1Context
+Corrupted	sha1.h	/^    int Corrupted;             \/* Is the message digest corrupted? *\/$/;"	m	struct:SHA1Context
+DEFINE_H	define.h	2;"	d
+DEKHash	hash_function.cpp	/^DEKHash(const unsigned char * str, unsigned int len)   $/;"	f
+DIR_DST	define.h	41;"	d
+DIR_SRC	define.h	40;"	d
+DJBHash	hash_function.cpp	/^DJBHash (const unsigned char * str, unsigned int len)$/;"	f
+Decode	md5.cpp	/^static void Decode (UINT4 * output, unsigned char *input, unsigned int len)$/;"	f	file:
+Encode	md5.cpp	/^static void Encode (unsigned char *output, UINT4 *input, unsigned int len)$/;"	f	file:
+F	md5.cpp	52;"	d	file:
+FF	md5.cpp	62;"	d	file:
+FNV32	hash_function.cpp	/^FNV32(const unsigned char *str, unsigned int len)$/;"	f
+G	md5.cpp	53;"	d	file:
+GG	md5.cpp	67;"	d	file:
+Get_bf_k	std_bf.h	/^	uint Get_bf_k(){return bf_k;}$/;"	f	class:StandardBF
+Get_bf_m	std_bf.h	/^	uint Get_bf_m(){return bf_m;}$/;"	f	class:StandardBF
+Get_bf_n	std_bf.h	/^	uint Get_bf_n(){return bf_n;}$/;"	f	class:StandardBF
+H	md5.cpp	54;"	d	file:
+HASH_FUNCTION_H	hash_function.h	3;"	d
+HASH_NUM_MAX	std_bf.h	10;"	d
+HH	md5.cpp	72;"	d	file:
+HIGHTBIT	define.h	18;"	d
+Hsieh	hash_function.cpp	/^Hsieh (const unsigned char * str, unsigned int len)$/;"	f
+I	md5.cpp	55;"	d	file:
+II	md5.cpp	77;"	d	file:
+Intermediate_Hash	sha1.h	/^    uint32_t Intermediate_Hash[SHA1HashSize\/4]; \/* Message Digest  *\/$/;"	m	struct:SHA1Context
+IsKICKED	key-value.h	/^	bool IsKICKED;$/;"	m	struct:hashentryP
+JSHash	hash_function.cpp	/^JSHash(const unsigned char * str, unsigned int len)$/;"	f
+KEYLENGTH	PeacockHash.h	8;"	d
+KEY_LEN	main.cpp	12;"	d	file:
+KEY_SIZE	key-value.h	7;"	d
+KICK_COUNT_MAX	key-value.h	10;"	d
+LEVEL16_ELE_NUM	define.h	25;"	d
+Length_High	sha1.h	/^    uint32_t Length_High;           \/* Message length in bits      *\/$/;"	m	struct:SHA1Context
+Length_Low	sha1.h	/^    uint32_t Length_Low;            \/* Message length in bits      *\/$/;"	m	struct:SHA1Context
+MAX_PRIME	BOBHash.cpp	3;"	d	file:
+MAX_READ	main.cpp	8;"	d	file:
+MAX_RULES	define.h	13;"	d
+MAX_SEARCH_MEM_ACC	PeacockHash.h	10;"	d
+MAX_TRACES	define.h	14;"	d
+MD5	hash_function.cpp	/^MD5(const unsigned char *str, unsigned int len)$/;"	f
+MD5Final	md5.cpp	/^void MD5Final (unsigned char *digest, MD5_CTX *context)$/;"	f
+MD5Init	md5.cpp	/^void MD5Init (MD5_CTX *context)$/;"	f
+MD5Transform	md5.cpp	/^static void MD5Transform (UINT4 *state, unsigned char *block)$/;"	f	file:
+MD5Update	md5.cpp	/^void MD5Update (MD5_CTX *context, unsigned char *input, unsigned int inputLen)$/;"	f
+MD5_CTX	md5.h	/^} MD5_CTX;$/;"	t	typeref:struct:__anon1
+MD5_memcpy	md5.cpp	/^static void MD5_memcpy (POINTER output, POINTER input, unsigned int len)$/;"	f	file:
+MD5_memset	md5.cpp	/^static void MD5_memset (POINTER output, int value, unsigned int len)$/;"	f	file:
+MEMORY_ACC_POINTER_MAX	key-value.h	13;"	d
+MEMORY_ACC_UNIT	key-value.h	12;"	d
+MainHashTab	PeacockHash.h	/^	hashentry * MainHashTab; \/\/main hash table$/;"	m	class:PeacockHash
+Message_Block	sha1.h	/^    uint8_t Message_Block[64];      \/* 512-bit message blocks      *\/$/;"	m	struct:SHA1Context
+Message_Block_Index	sha1.h	/^    int_least16_t Message_Block_Index;$/;"	m	struct:SHA1Context
+NumCollisions	PeacockHash.h	/^	unsigned int NumCollisions;$/;"	m	class:PeacockHash
+NumSigLikedChain	PeacockHash.h	/^	unsigned int ** NumSigLikedChain; \/\/length of singly linked chain in sub hash tables $/;"	m	class:PeacockHash
+NumStages	PeacockHash.h	/^	unsigned int NumStages ; \/\/ number of stages$/;"	m	class:PeacockHash
+OAAT	hash_function.cpp	/^OAAT(const unsigned char *str, unsigned int len)$/;"	f
+OCaml	hash_function.cpp	/^OCaml(const unsigned char *str, unsigned int len) $/;"	f
+PADDING	md5.cpp	/^static unsigned char PADDING[64] = {$/;"	v	file:
+PJWHash	hash_function.cpp	/^PJWHash (const unsigned char *str, unsigned int len)$/;"	f
+POINTER	md5.h	/^typedef unsigned char *POINTER;$/;"	t
+PORT_MAX	define.h	16;"	d
+PROTOTYPES	md5.h	22;"	d
+PeacockHash	PeacockHash.cpp	/^PeacockHash::PeacockHash(unsigned int elementNum, float ht_times, unsigned int Nstages_p) {$/;"	f	class:PeacockHash
+PeacockHash	PeacockHash.cpp	/^PeacockHash::PeacockHash(unsigned int len_main, unsigned int r, unsigned int stage) {$/;"	f	class:PeacockHash
+PeacockHash	PeacockHash.cpp	/^PeacockHash::PeacockHash(void) {$/;"	f	class:PeacockHash
+PeacockHash	PeacockHash.h	/^class PeacockHash$/;"	c
+QuerymemAccNum	std_bf.h	/^	uint QuerymemAccNum;$/;"	m	class:StandardBF
+QuerymemAccNum	std_bf.h	/^	uint QuerymemAccNum;$/;"	m	class:multibitBF
+ROTATE_LEFT	md5.cpp	58;"	d	file:
+RSHash	hash_function.cpp	/^RSHash(const unsigned char * str, unsigned int len)$/;"	f
+RULESET_LEN	define.h	20;"	d
+S11	md5.cpp	24;"	d	file:
+S12	md5.cpp	25;"	d	file:
+S13	md5.cpp	26;"	d	file:
+S14	md5.cpp	27;"	d	file:
+S21	md5.cpp	28;"	d	file:
+S22	md5.cpp	29;"	d	file:
+S23	md5.cpp	30;"	d	file:
+S24	md5.cpp	31;"	d	file:
+S31	md5.cpp	32;"	d	file:
+S32	md5.cpp	33;"	d	file:
+S33	md5.cpp	34;"	d	file:
+S34	md5.cpp	35;"	d	file:
+S41	md5.cpp	36;"	d	file:
+S42	md5.cpp	37;"	d	file:
+S43	md5.cpp	38;"	d	file:
+S44	md5.cpp	39;"	d	file:
+SBOX	hash_function.cpp	/^SBOX(const unsigned char * str, unsigned int len)$/;"	f
+SDBM	hash_function.cpp	/^SDBM(const unsigned char *str, unsigned int len)$/;"	f
+SEARCH_COUNT_PER_BATCH	main.cpp	10;"	d	file:
+SHA1	hash_function.cpp	/^SHA1(const unsigned char *str, unsigned int len)$/;"	f
+SHA1CircularShift	sha1.cpp	37;"	d	file:
+SHA1Context	sha1.h	/^typedef struct SHA1Context$/;"	s
+SHA1Context	sha1.h	/^} SHA1Context;$/;"	t	typeref:struct:SHA1Context
+SHA1HashSize	sha1.h	41;"	d
+SHA1Input	sha1.cpp	/^int SHA1Input(    SHA1Context    *context,$/;"	f
+SHA1PadMessage	sha1.cpp	/^void SHA1PadMessage(SHA1Context *context)$/;"	f
+SHA1ProcessMessageBlock	sha1.cpp	/^void SHA1ProcessMessageBlock(SHA1Context *context)$/;"	f
+SHA1Reset	sha1.cpp	/^int SHA1Reset(SHA1Context *context)$/;"	f
+SHA1Result	sha1.cpp	/^int SHA1Result( SHA1Context *context,$/;"	f
+SIMD_AND	define.h	36;"	d
+SIMD_MOV	define.h	38;"	d
+SIMD_OR	define.h	37;"	d
+SML	hash_function.cpp	/^SML(const unsigned char *str, unsigned int len)$/;"	f
+STATISTIC	std_bf.h	11;"	d
+STD_BF	std_bf.h	2;"	d
+STL	hash_function.cpp	/^STL(const unsigned char *str, unsigned int len) $/;"	f
+Simple	hash_function.cpp	/^Simple(const unsigned char * str, unsigned int len)$/;"	f
+StandardBF	std_bf.h	/^	StandardBF(){$/;"	f	class:StandardBF
+StandardBF	std_bf.h	/^	StandardBF(unsigned int m, unsigned int k)$/;"	f	class:StandardBF
+StandardBF	std_bf.h	/^class StandardBF $/;"	c
+SubHashTab	PeacockHash.h	/^	hashentryP **SubHashTab; \/\/sub hash tables$/;"	m	class:PeacockHash
+TWMX	hash_function.cpp	/^TWMX( unsigned int a)$/;"	f
+UINT2	md5.h	/^typedef unsigned short int UINT2;$/;"	t
+UINT4	md5.h	/^typedef unsigned long int UINT4;$/;"	t
+_SHA1_H_	sha1.h	18;"	d
+_SHA_enum_	sha1.h	32;"	d
+aCounter	key-value.h	/^struct aCounter$/;"	s
+bf_base	std_bf.h	/^	uchar * bf_base; \/\/bloom filter base$/;"	m	class:StandardBF
+bf_base	std_bf.h	/^	uchar* bf_base; \/\/bloom filter base$/;"	m	class:multibitBF
+bf_hash	std_bf.h	/^	uint   (*bf_hash[18])(const unsigned char * str, unsigned int len);$/;"	m	class:multibitBF
+bf_hfp	std_bf.h	/^	unsigned int (*bf_hfp[18])(const unsigned char * str, unsigned int len);$/;"	m	class:StandardBF
+bf_k	std_bf.h	/^	uint   bf_k;    \/\/hash function numbers;$/;"	m	class:multibitBF
+bf_k	std_bf.h	/^	unsigned int bf_k; \/\/hash function numbers;$/;"	m	class:StandardBF
+bf_m	std_bf.h	/^	uint   bf_m;    \/\/bloom filter length$/;"	m	class:multibitBF
+bf_m	std_bf.h	/^	unsigned int bf_m; \/\/bloom filter length$/;"	m	class:StandardBF
+bf_n	std_bf.h	/^	uint   bf_n;    \/\/# of elements inserted$/;"	m	class:multibitBF
+bf_n	std_bf.h	/^	unsigned int bf_n; \/\/# of elements inserted$/;"	m	class:StandardBF
+bit1	key-value.h	/^	bool bit1:1;$/;"	m	struct:aCounter
+bit2	key-value.h	/^	bool bit2:1;$/;"	m	struct:aCounter
+bit3	key-value.h	/^	bool bit3:1;$/;"	m	struct:aCounter
+bit4	key-value.h	/^	bool bit4:1;$/;"	m	struct:aCounter
+bit5	key-value.h	/^	bool bit5:1;$/;"	m	struct:aCounter
+bit6	key-value.h	/^	bool bit6:1;$/;"	m	struct:aCounter
+bit7	key-value.h	/^	bool bit7:1;$/;"	m	struct:aCounter
+bit8	key-value.h	/^	bool bit8:1;$/;"	m	struct:aCounter
+buffer	md5.h	/^  unsigned char buffer[64];                         \/* input buffer *\/$/;"	m	struct:__anon1
+clearSearchStat	PeacockHash.cpp	/^bool PeacockHash::clearSearchStat() {$/;"	f	class:PeacockHash
+collect	PeacockHash.cpp	/^void PeacockHash::collect(void) {$/;"	f	class:PeacockHash
+count	md5.h	/^  UINT4 count[2];        \/* number of bits, modulo 2^64 (lsb first) *\/$/;"	m	struct:__anon1
+get16bits	hash_function.cpp	148;"	d	file:
+get16bits	hash_function.cpp	151;"	d	file:
+get16bits	hash_function.cpp	155;"	d	file:
+getFIBSize	key-value.cpp	/^int getFIBSize(char * fibfile)$/;"	f
+hash_func	std_bf.h	/^static uint (* hash_func[HASH_NUM_MAX])(const unsigned char * str, uint len) = $/;"	v
+hashentry	key-value.h	/^struct hashentry$/;"	s
+hashentryP	key-value.h	/^struct hashentryP$/;"	s
+hashlen	PeacockHash.h	/^	unsigned int *hashlen; \/\/ an array contains the size of every hash table$/;"	m	class:PeacockHash
+init	PeacockHash.cpp	/^bool PeacockHash::init(int stage, int scaling_rate, int total_elements, int bf_length) {$/;"	f	class:PeacockHash
+initial	std_bf.h	/^	void initial(unsigned int m, unsigned int k){$/;"	f	class:StandardBF
+initialFromFile	PeacockHash.cpp	/^bool PeacockHash::initialFromFile(char *InputFileName, float ht_times, unsigned int stage, unsigned int MAX_READ) {$/;"	f	class:PeacockHash
+initialize	BOBHash.cpp	/^void BOBHash::initialize(uint primeNum) {$/;"	f	class:BOBHash
+input_filename	main.cpp	/^char input_filename[] = "\/home\/surlavi\/projects\/Lab\/4 - MHash\/rrc00(2013010108).txt";$/;"	v
+insert	PeacockHash.cpp	/^bool PeacockHash::insert(char *key, int val) {$/;"	f	class:PeacockHash
+insert	std_bf.h	/^	unsigned int insert(const unsigned char * str, unsigned int len){$/;"	f	class:StandardBF
+insert	std_bf.h	/^	void insert(const unsigned char * str, unsigned int len, int iBF)$/;"	f	class:multibitBF
+insertCount	PeacockHash.h	/^	unsigned int insertCount;$/;"	m	class:PeacockHash
+insertCountTot	PeacockHash.h	/^	unsigned int insertCountTot;$/;"	m	class:PeacockHash
+insertMAcurpos	PeacockHash.h	/^	unsigned int insertMAcurpos;$/;"	m	class:PeacockHash
+insertMAtot	PeacockHash.h	/^	unsigned int insertMAtot;$/;"	m	class:PeacockHash
+insertMemAcc	PeacockHash.h	/^	float  insertMemAcc[MEMORY_ACC_POINTER_MAX];$/;"	m	class:PeacockHash
+key	key-value.h	/^	unsigned char key[KEY_SIZE]; \/\/必须设定大小，不然访存会出错$/;"	m	struct:hashentry
+key	key-value.h	/^	unsigned char key[KEY_SIZE]; \/\/必须设定大小，不然访存会出错$/;"	m	struct:hashentryP
+loadingfactor	PeacockHash.h	/^	float *loadingfactor; \/\/loading factor of each table$/;"	m	class:PeacockHash
+loadingfactorT	PeacockHash.h	/^	float loadingfactorT; \/\/loading factor of total hash tables$/;"	m	class:PeacockHash
+main	main.cpp	/^int main()$/;"	f
+mix	BOBHash.cpp	132;"	d	file:
+mix	hash_function.cpp	8;"	d	file:
+multibitBF	std_bf.h	/^	multibitBF(unsigned int m, unsigned int k)$/;"	f	class:multibitBF
+multibitBF	std_bf.h	/^class multibitBF $/;"	c
+next	key-value.h	/^	struct hashentryP * next;$/;"	m	struct:hashentryP	typeref:struct:hashentryP::hashentryP
+prime	BOBHash.cpp	/^uint prime[MAX_PRIME] = {$/;"	v
+primeNum	BOBHash.h	/^	uint primeNum;$/;"	m	class:BOBHash
+query	std_bf.h	/^	uchar query(const unsigned char * str, unsigned int len)$/;"	f	class:multibitBF
+query	std_bf.h	/^	unsigned int query(const unsigned char * str, unsigned int len){$/;"	f	class:StandardBF
+ratiofactor	PeacockHash.h	/^	unsigned int ratiofactor; \/\/ratio factor$/;"	m	class:PeacockHash
+readHashEntries	key-value.cpp	/^hashentry * readHashEntries(int & readline, char *inputfile)$/;"	f
+readHashEntriesPointer	key-value.cpp	/^hashentryP *  readHashEntriesPointer(int & readline, char *inputfile)$/;"	f
+read_key	main.cpp	/^char read_key[MAX_READ][KEY_LEN];$/;"	v
+read_val	main.cpp	/^int read_val[MAX_READ];$/;"	v
+remove	PeacockHash.cpp	/^bool PeacockHash::remove(char *key) \/\/remove a key from hash table$/;"	f	class:PeacockHash
+removeCount	PeacockHash.h	/^	unsigned int removeCount;$/;"	m	class:PeacockHash
+removeMAcurpos	PeacockHash.h	/^	unsigned int removeMAcurpos;$/;"	m	class:PeacockHash
+removeMAtot	PeacockHash.h	/^	unsigned int removeMAtot;$/;"	m	class:PeacockHash
+removeMemAcc	PeacockHash.h	/^	float  removeMemAcc[MEMORY_ACC_POINTER_MAX];$/;"	m	class:PeacockHash
+report	PeacockHash.cpp	/^void PeacockHash::report(char *outputfile) {$/;"	f	class:PeacockHash
+reportInline	PeacockHash.cpp	/^void PeacockHash::reportInline(FILE *fp) {$/;"	f	class:PeacockHash
+reset	PeacockHash.cpp	/^bool PeacockHash::reset() {$/;"	f	class:PeacockHash
+reset	std_bf.h	/^	void reset(){$/;"	f	class:StandardBF
+run	BOBHash.cpp	/^uint BOBHash::run(const unsigned char * str, uint len)$/;"	f	class:BOBHash
+search	PeacockHash.cpp	/^bool PeacockHash::search(const unsigned char *key, int &value) \/\/ yt: record # memory accesses, # hash probes$/;"	f	class:PeacockHash
+searchCount	PeacockHash.h	/^	unsigned int searchCount;$/;"	m	class:PeacockHash
+searchCountTot	PeacockHash.h	/^	unsigned int searchCountTot;$/;"	m	class:PeacockHash
+searchMAcurpos	PeacockHash.h	/^	unsigned int searchMAcurpos;$/;"	m	class:PeacockHash
+searchMAtot	PeacockHash.h	/^	unsigned int searchMAtot;$/;"	m	class:PeacockHash
+searchMAtotP	PeacockHash.h	/^	unsigned int searchMAtotP;$/;"	m	class:PeacockHash
+searchMemAcc	PeacockHash.h	/^	float  searchMemAcc[MEMORY_ACC_POINTER_MAX];$/;"	m	class:PeacockHash
+searchMemAccCounter	PeacockHash.h	/^	int searchMemAccCounter[MAX_SEARCH_MEM_ACC];$/;"	m	class:PeacockHash
+setiBit	std_bf.h	/^	void setiBit(int pos, int iBF)$/;"	f	class:multibitBF
+shaInputTooLong	sha1.h	/^    shaInputTooLong,    \/* input data too long *\/$/;"	e	enum:__anon2
+shaNull	sha1.h	/^    shaNull,            \/* Null pointer parameter *\/$/;"	e	enum:__anon2
+shaStateError	sha1.h	/^    shaStateError       \/* called Input after Result *\/$/;"	e	enum:__anon2
+shaSuccess	sha1.h	/^    shaSuccess = 0,$/;"	e	enum:__anon2
+state	md5.h	/^  UINT4 state[4];                                   \/* state (ABCD) *\/$/;"	m	struct:__anon1
+test	PeacockHash.cpp	/^bool PeacockHash::test(char *File) {$/;"	f	class:PeacockHash
+totsize	PeacockHash.h	/^	unsigned int totsize; \/\/total size of hash table$/;"	m	class:PeacockHash
+uchar	define.h	/^typedef unsigned char uchar;$/;"	t
+uchar	hash_function.h	/^typedef unsigned char uchar;$/;"	t
+uint	define.h	/^typedef unsigned int uint;$/;"	t
+uint	hash_function.h	/^typedef unsigned int uint;$/;"	t
+uint64	define.h	/^typedef unsigned long long uint64;$/;"	t
+uint64	hash_function.h	/^typedef unsigned long long uint64;$/;"	t
+value	key-value.h	/^	int value;$/;"	m	struct:hashentry
+value	key-value.h	/^	int value;$/;"	m	struct:hashentryP
+~BOBHash	BOBHash.cpp	/^BOBHash::~BOBHash()$/;"	f	class:BOBHash
+~PeacockHash	PeacockHash.cpp	/^PeacockHash::~PeacockHash(void) {$/;"	f	class:PeacockHash
+~StandardBF	std_bf.h	/^	~StandardBF()$/;"	f	class:StandardBF
+~multibitBF	std_bf.h	/^	~multibitBF()$/;"	f	class:multibitBF
